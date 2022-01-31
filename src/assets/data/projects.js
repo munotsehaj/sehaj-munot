@@ -10,22 +10,21 @@ const projects = [
   {
     id: uuidv4(),
     name: 'Sehaj Munot - Portfolio',
-    desc:
-      'A personal portfolio website for myself. www.sehajmunot.me/',
+    desc: 'A personal portfolio website for myself. www.sehajmunot.me/',
     img: PortfolioImg,
   },
   {
     id: uuidv4(),
     name: 'The Hedgehog Blog',
     desc:
-      'A blog for myself where I talk about finance and computer science. munotsehaj.github.io/',
+      'A blog for myself where I talk about finance and computer science. munotsehaj.github.io',
     img: BlogImg,
   },
   {
     id: uuidv4(),
     name: 'STEAM with a G',
     desc:
-      'Built a website for STEAM with a G using Weebly. steamwithag.weeblysite.com/',
+      'Built a website for STEAM with a G using Weebly. steamwithag.weeblysite.com',
     img: steamwithag,
   },
   {
