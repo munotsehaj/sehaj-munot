@@ -45,7 +45,7 @@ const ProjectStyle = styled.div`
 `;
 
 export default function Projects() {
-  const [searchText, setSearchText] = useState('');
+  const [searchText] = useState('');
   const [projectsData, setProjectsData] = useState(ProjectsInfo);
   useEffect(() => {
     if (searchText === '') return;
