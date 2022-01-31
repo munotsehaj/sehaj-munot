@@ -11,7 +11,7 @@ const projects = [
     id: uuidv4(),
     name: 'Sehaj Munot - Portfolio',
     desc:
-      'A personal portfolio website for myself, Varun Unnithan. www.sehajmunot.me/',
+      'A personal portfolio website for myself. www.sehajmunot.me/',
     img: PortfolioImg,
   },
   {
